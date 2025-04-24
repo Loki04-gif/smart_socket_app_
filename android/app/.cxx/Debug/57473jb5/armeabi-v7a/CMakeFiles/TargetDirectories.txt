@@ -1,0 +1,2 @@
+C:/Users/ozmen/OneDrive/Desktop/smart_socket_app_/smart_socket_app_/android/app/.cxx/Debug/57473jb5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ozmen/OneDrive/Desktop/smart_socket_app_/smart_socket_app_/android/app/.cxx/Debug/57473jb5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
